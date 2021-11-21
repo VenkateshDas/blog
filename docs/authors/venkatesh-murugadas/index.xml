@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Venkatesh Murugadas - Author - Venkatesh Murugadas</title>
-        <link>https://venkateshdas.github.io/authors/venkatesh-murugadas/</link>
+        <link>https://venkateshdas.github.io/blog/authors/venkatesh-murugadas/</link>
         <description>Venkatesh Murugadas - Author - Venkatesh Murugadas</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>venkateshdas.me@gmail.com (Venkatesh Murugadas)</managingEditor>
-            <webMaster>venkateshdas.me@gmail.com (Venkatesh Murugadas)</webMaster><lastBuildDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://venkateshdas.github.io/authors/venkatesh-murugadas/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>venkateshdas.me@gmail.com (Venkatesh Murugadas)</webMaster><lastBuildDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://venkateshdas.github.io/blog/authors/venkatesh-murugadas/" rel="self" type="application/rss+xml" /><item>
     <title>Learning Hugo</title>
-    <link>https://venkateshdas.github.io/learning_hugo/</link>
+    <link>https://venkateshdas.github.io/blog/learning_hugo/</link>
     <pubDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</pubDate><author>
-                    <name>Venkatesh Murugadas</name><uri>https://venkateshdas.github.io/authors/venkatesh-murugadas</uri></author><guid>https://venkateshdas.github.io/learning_hugo/</guid>
+                    <name>Venkatesh Murugadas</name><uri>https://venkateshdas.github.io/authors/venkatesh-murugadas</uri></author><guid>https://venkateshdas.github.io/blog/learning_hugo/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/learning_poster.webp" referrerpolicy="no-referrer">
             </div>This blog is written during my learning phase of Hugo and post creation]]></description>
