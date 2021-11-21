@@ -1,4 +1,4 @@
-baseURL = "https://venkateshdas.github.io/blog/"
+baseURL = "https://venkateshdas.github.io/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
