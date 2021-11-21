@@ -7,10 +7,10 @@
             <webMaster>venkateshdas.me@gmail.com (Venkatesh Murugadas)</webMaster><lastBuildDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://venkateshdas.github.io/blog/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Learning Hugo</title>
     <link>https://venkateshdas.github.io/blog/learning_hugo/</link>
-    <pubDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</pubDate><author>venkateshdas.me@gmail.com (Venkatesh Murugadas)</author><guid>https://venkateshdas.github.io/blog/learning_hugo/</guid>
+    <pubDate>Sun, 21 Nov 2021 00:00:00 &#43;0000</pubDate><author>
+                    <name>Venkatesh Murugadas</name><uri>https://venkateshdas.github.io/blog/authors/venkatesh-murugadas</uri></author><guid>https://venkateshdas.github.io/blog/learning_hugo/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/blog/learning_poster.webp" referrerpolicy="no-referrer">
             </div>This blog is written during my learning phase of Hugo and post creation]]></description>
-</item>
-</channel>
+</item></channel>
 </rss>
