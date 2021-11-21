@@ -1,0 +1,5 @@
+# series
+
+---
+title: series
+---
