@@ -8,7 +8,7 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Update theme
-        run: git submodule update --force --init --recursive
+        run: git submodule update --force --init --recursive --remote
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
