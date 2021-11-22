@@ -111,29 +111,29 @@ theme = "DoIt-0.2.13"
     contentLength = 4000
     # placeholder of the search bar
     placeholder = ""
-    #  max number of results length
+    # DoIt NEW | 0.2.1 max number of results length
     maxResultLength = 10
-    #  snippet length of the result
+    # DoIt NEW | 0.2.3 snippet length of the result
     snippetLength = 30
-    #  HTML tag name of the highlight part in results
+    # DoIt NEW | 0.2.1 HTML tag name of the highlight part in results
     highlightTag = "em"
-    #  whether to use the absolute URL based on the baseURL in search index
+    # DoIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
-    [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
-    [params.search.fuse]
-      #  https://fusejs.io/api/options.html
-      isCaseSensitive = false
-      minMatchCharLength = 2
-      findAllMatches = false
-      location = 0
-      threshold = 0.3
-      distance = 100
-      ignoreLocation = false
-      useExtendedSearch = false
-      ignoreFieldNorm = false
+  [params.search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+  [params.search.fuse]
+    # DoIt NEW | 0.2.12 https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
   # Header config
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
